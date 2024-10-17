@@ -9,7 +9,7 @@ Release:       %mkrel 1
 Summary:       Postfix filters for the Kolab server
 License:       LGPL
 Group:         Networking/Mail
-Url:           http://pear.horde.org/index.php?package=%{prj}
+Url:           https://pear.horde.org/index.php?package=%{prj}
 Source0:       %{prj}-%{version}.tgz
 Source1:       nl_NL.po
 BuildArch:     noarch
