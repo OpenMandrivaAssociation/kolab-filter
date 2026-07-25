@@ -5,7 +5,7 @@
 
 Name:          kolab-filter
 Version:       0.1.8
-Release:       %mkrel 1
+Release:       2
 Summary:       Postfix filters for the Kolab server
 License:       LGPL
 Group:         Networking/Mail
